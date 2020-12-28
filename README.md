@@ -55,10 +55,7 @@
 ## About The Project
 
 
-
-At FIT'D we are hiring tomorrow`s workforce by opening the door to diversity, because every qualified applicant deserves a chance to get their Foot In The Door.
-
-Our mission is to transform the hiring process, intentionally targeting a broader range of candidates by leveling the playing field, giving every candidate a chance to get their Foot In The Door (FIT’D). All too often today applicants are considered "qualified" based on brandnames and buzzwords on a resume, not on their true qualifications and skills...FIT'D is changing this!
+health app
 
 ### Built With
 
