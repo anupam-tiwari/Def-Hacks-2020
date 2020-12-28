@@ -6,10 +6,10 @@
 <br />
 <p align="center">
   <a href="">
-    <img src="https://defhacks.co/images/defhacks-logos/defhacks-wordmark-logo-green-black-green.png" alt="Logo" width="100" height="80">
+    <img src="https://defhacks.co/images/defhacks-logos/defhacks-wordmark-logo-green-black-green.png" alt="Logo" width="200" height="80">
   </a>
 
-  <h3 align="center">/h3>
+  <h3 align="center"></h3>
 
   <p align="center">
    Health monitoring system
